@@ -10,5 +10,8 @@ Player 2: Up and Down
 
 ## How I made it
 Vim for editor
+
 GCC for compiler
+
 Furnace for making sounds
+
