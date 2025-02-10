@@ -19,7 +19,6 @@ int main()
    
     InitWindow(screenWidth, screenHeight, "PONKER");
     InitAudioDevice();
-    Texture2D petet = LoadTexture("res/petet.jpg");
     Sound hitSound = LoadSound("res/hit.wav"); 
     Sound winSound = LoadSound("res/win.wav");
     // Initialize the camera
